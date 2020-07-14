@@ -88,29 +88,20 @@ li {
   font-size: 24px;
   margin-top: 30px;
 }
-.GSXR{
+.contact-form{
+  height:800px;
+  padding-top:100px;
+}
+.GSXR img{
   float:left;
   padding:40px;
   font-size:24px;
 }
-.GSXR li{
+.contact-form li{
   margin:30px;
-}
-.GSXR1{
-  padding:40px;
-  font-size:24px;
-}
-.GSXR1 li{
-  margin:30px;
-}
-.GSXR1 span{
-  color:#ff4a4a;
 }
 /* contact-formのpadding-topを100pxにしてください */
-.contact-form{
-  height:350px;
-  padding-top:100px;
-}
+
 
 .footer {
   background-color: #006699;
